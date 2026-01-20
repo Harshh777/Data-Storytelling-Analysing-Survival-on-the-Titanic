@@ -72,6 +72,6 @@ ydata_profiling_report.html
 🚀 How to View the EDA
 Because GitHub has limitations rendering complex interactive widgets, I have optimized the notebook for static viewing.
 
-Static View: Open  directly in GitHub.
+Static View: Open Analyzing_the_Titanic_dataset.ipynb directly in GitHub.
 Interactive View: If you want to see the full interactive ydata-profiling report, you can run the notebook locally or in Google Colab.
 Google Colab link :https://colab.research.google.com/drive/1me4wcJugEi5wtUO_xbjjVw3c1mwTyzf9?usp=sharing
